@@ -21,3 +21,4 @@ Codechef and Leetcode ques
 | 2 | CodeChef | [NOTEBOOK](https://www.codechef.com/problems/NOTEBOOK) |
 | 3 | CodeChef | [VALENTINE](https://www.codechef.com/problems/VALENTINE) |
 | 4 | CodeChef | [FALSNUM](https://www.codechef.com/problems/FALSNUM) |
+| 5 | LeetCode | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
