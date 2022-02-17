@@ -13,8 +13,8 @@ Codechef and Leetcode ques
 
 </br></br>
 
-# Days
+# Questions
 
-| Day                                                                                            | Description                                 |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| [`Day 1`](https://github.com/Maanas74/DSA-Practice/blob/main/codechef/XORPAL.cpp)              | Solved 2 Que                                |
+| Que No. | From | Description |
+| --- | --- | --- |
+| 1 | CodeChef | [XORPAL](https://www.codechef.com/FEB222C/problems/XORPAL/) |
