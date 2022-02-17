@@ -1,3 +1,5 @@
+// Que Link:-https://www.codechef.com/FEB222C/problems/XORPAL/
+
 #include <bits/stdc++.h>
 using namespace std;
 
