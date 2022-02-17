@@ -16,5 +16,8 @@ Codechef and Leetcode ques
 # Questions
 
 | Que No. | From | Description |
-| --- | --- | --- |
+| ---     | ---  | ---         |
 | 1 | CodeChef | [XORPAL](https://www.codechef.com/FEB222C/problems/XORPAL/) |
+| 2 | CodeChef | [NOTEBOOK](https://www.codechef.com/problems/NOTEBOOK) |
+| 3 | CodeChef | [VALENTINE](https://www.codechef.com/problems/VALENTINE) |
+| 4 | CodeChef | [FALSNUM](https://www.codechef.com/problems/FALSNUM) |
