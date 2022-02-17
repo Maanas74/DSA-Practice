@@ -1,5 +1,6 @@
 // Que Link:- https://www.codechef.com/problems/NOTEBOOK
 
+
 #include <iostream>
 using namespace std;
 
