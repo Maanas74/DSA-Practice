@@ -31,6 +31,6 @@ Codechef and Leetcode ques
 
 | Que No. | Description |
 | ---     | ---         |  
-| 5 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
+| 1 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
 
 </td></tr> </table>
