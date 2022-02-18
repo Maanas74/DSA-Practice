@@ -15,10 +15,22 @@ Codechef and Leetcode ques
 
 # Questions
 
-| Que No. | From | Description |
-| ---     | ---  | ---         |     
-| 1 | CodeChef | [XORPAL](https://www.codechef.com/FEB222C/problems/XORPAL/) |
-| 2 | CodeChef | [NOTEBOOK](https://www.codechef.com/problems/NOTEBOOK) |
-| 3 | CodeChef | [VALENTINE](https://www.codechef.com/problems/VALENTINE) |
-| 4 | CodeChef | [FALSNUM](https://www.codechef.com/problems/FALSNUM) |
-| 5 | LeetCode | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
+
+<table>
+<tr><th>CodeChef </th><th>LeetCode</th></tr>
+<tr><td>
+
+| Que No. | Description |
+| ---     | ---         |     
+| 1 | [XORPAL](https://www.codechef.com/FEB222C/problems/XORPAL/) |
+| 2 | [NOTEBOOK](https://www.codechef.com/problems/NOTEBOOK) |
+| 3 | [VALENTINE](https://www.codechef.com/problems/VALENTINE) |
+| 4 | [FALSNUM](https://www.codechef.com/problems/FALSNUM) |
+
+</td><td>
+
+| Que No. | Description |
+| ---     | ---         |  
+| 5 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
+
+</td></tr> </table>
