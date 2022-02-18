@@ -26,6 +26,9 @@ Codechef and Leetcode ques
 | 2 | [NOTEBOOK](https://www.codechef.com/problems/NOTEBOOK) |
 | 3 | [VALENTINE](https://www.codechef.com/problems/VALENTINE) |
 | 4 | [FALSNUM](https://www.codechef.com/problems/FALSNUM) |
+| 5 | [DECINC](https://www.codechef.com/problems/DECINC) |
+| 6 | [REMISS](https://www.codechef.com/problems/REMISS) |
+| 7 | [PALL01](https://www.codechef.com/problems/PALL01) |
 
 </td><td>
 
