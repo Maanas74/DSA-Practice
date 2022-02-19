@@ -39,9 +39,9 @@ Codechef and Leetcode ques
 | Que No. | Description |
 | ---     | ---         |  
 | 1 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
-| 2 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/) |
-| 3 | [Smaller than Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/) |
+| 2 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |
+| 3 | [Smaller than Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 4 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) |
-| 5 | [Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/) |
+| 5 | [Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
 
 </td></tr> </table>
