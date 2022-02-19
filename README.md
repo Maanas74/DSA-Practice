@@ -29,6 +29,10 @@ Codechef and Leetcode ques
 | 5 | [DECINC](https://www.codechef.com/problems/DECINC) |
 | 6 | [REMISS](https://www.codechef.com/problems/REMISS) |
 | 7 | [PALL01](https://www.codechef.com/problems/PALL01) |
+| 8 | [FLOW005](https://www.codechef.com/problems/FLOW005) |
+| 9 | [CIELRCPT](https://www.codechef.com/problems/CIELRCPT) |
+| 10 | [PRB01](https://www.codechef.com/problems/PRB01) |
+| 11 | [FLOW010](https://www.codechef.com/problems/FLOW010) |
 
 </td><td>
 
@@ -37,5 +41,7 @@ Codechef and Leetcode ques
 | 1 | [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) |
 | 2 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/submissions/) |
 | 3 | [Smaller than Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/submissions/) |
+| 4 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) |
+| 5 | [Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/submissions/) |
 
 </td></tr> </table>
