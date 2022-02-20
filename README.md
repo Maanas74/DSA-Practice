@@ -33,6 +33,10 @@ Codechef and Leetcode ques
 | 9 | [CIELRCPT](https://www.codechef.com/problems/CIELRCPT) |
 | 10 | [PRB01](https://www.codechef.com/problems/PRB01) |
 | 11 | [FLOW010](https://www.codechef.com/problems/FLOW010) |
+| 12 | [FLOW016](https://www.codechef.com/problems/FLOW016) |
+| 13 | [PPSUM](https://www.codechef.com/problems/PPSUM) |
+| 14 | [FLOW009](https://www.codechef.com/problems/FLOW009) |
+| 15 | [FLOW011](https://www.codechef.com/problems/FLOW011) |
 
 </td><td>
 
@@ -43,5 +47,7 @@ Codechef and Leetcode ques
 | 3 | [Smaller than Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) |
 | 4 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) |
 | 5 | [Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
+| 6 | [Defanging IPaddress](https://leetcode.com/problems/defanging-an-ip-address/) |
+| 7 | [Parking System](https://leetcode.com/problems/design-parking-system/) |
 
 </td></tr> </table>
