@@ -37,6 +37,10 @@ Codechef and Leetcode ques
 | 13 | [PPSUM](https://www.codechef.com/problems/PPSUM) |
 | 14 | [FLOW009](https://www.codechef.com/problems/FLOW009) |
 | 15 | [FLOW011](https://www.codechef.com/problems/FLOW011) |
+| 16 | [SMPAIR](https://www.codechef.com/problems/SMPAIR) |
+| 17 | [FLOW014](https://www.codechef.com/problems/FLOW014) |
+| 18 | [HEADBOB](https://www.codechef.com/problems/HEADBOB) |
+| 19 | [TWOVSTEN](https://www.codechef.com/problems/TWOVSTEN) |
 
 </td><td>
 
@@ -49,5 +53,7 @@ Codechef and Leetcode ques
 | 5 | [Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) |
 | 6 | [Defanging IPaddress](https://leetcode.com/problems/defanging-an-ip-address/) |
 | 7 | [Parking System](https://leetcode.com/problems/design-parking-system/) |
+| 8 | [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/) |
+| 9 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) |
 
 </td></tr> </table>
