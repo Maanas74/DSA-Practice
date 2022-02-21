@@ -1,4 +1,4 @@
-// Que Link:-
+// Que Link:- https://leetcode.com/problems/decode-xored-array/
 
 class Solution {
 public:
