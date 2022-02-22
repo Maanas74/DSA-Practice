@@ -41,6 +41,8 @@ Codechef and Leetcode ques
 | 17 | [FLOW014](https://www.codechef.com/problems/FLOW014) |
 | 18 | [HEADBOB](https://www.codechef.com/problems/HEADBOB) |
 | 19 | [TWOVSTEN](https://www.codechef.com/problems/TWOVSTEN) |
+| 20 | [SUMTRIAN](https://www.codechef.com/problems/SUMTRIAN) |
+| 21 | [PERMUT2](https://www.codechef.com/problems/PERMUT2) |
 
 </td><td>
 
