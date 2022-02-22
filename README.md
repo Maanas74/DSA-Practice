@@ -43,6 +43,8 @@ Codechef and Leetcode ques
 | 19 | [TWOVSTEN](https://www.codechef.com/problems/TWOVSTEN) |
 | 20 | [SUMTRIAN](https://www.codechef.com/problems/SUMTRIAN) |
 | 21 | [PERMUT2](https://www.codechef.com/problems/PERMUT2) |
+| 22 | [VOWELTB](https://www.codechef.com/problems/VOWELTB) |
+| 23 | [TRICOIN](https://www.codechef.com/problems/TRICOIN) |
 
 </td><td>
 
@@ -57,5 +59,8 @@ Codechef and Leetcode ques
 | 7 | [Parking System](https://leetcode.com/problems/design-parking-system/) |
 | 8 | [Decode Xored Array](https://leetcode.com/problems/decode-xored-array/) |
 | 9 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) |
+| 10 | [Binary Search](https://leetcode.com/problems/binary-search/) | 
+| 11 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |
+| 12 | [Search Insert Pos](https://leetcode.com/problems/search-insert-position/) |
 
 </td></tr> </table>
