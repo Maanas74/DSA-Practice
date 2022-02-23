@@ -45,6 +45,9 @@ Codechef and Leetcode ques
 | 21 | [PERMUT2](https://www.codechef.com/problems/PERMUT2) |
 | 22 | [VOWELTB](https://www.codechef.com/problems/VOWELTB) |
 | 23 | [TRICOIN](https://www.codechef.com/problems/TRICOIN) |
+| 24 | [POTATOES](https://www.codechef.com/problems/POTATOES) |
+| 25 | [COMM3](https://www.codechef.com/problems/COMM3) |
+| 26 | [MNMX](https://www.codechef.com/problems/MNMX) |
 
 </td><td>
 
