@@ -48,6 +48,7 @@ Codechef and Leetcode ques
 | 24 | [POTATOES](https://www.codechef.com/problems/POTATOES) |
 | 25 | [COMM3](https://www.codechef.com/problems/COMM3) |
 | 26 | [MNMX](https://www.codechef.com/problems/MNMX) |
+| 27 | [MISSP](https://www.codechef.com/problems/MISSP) |
 
 </td><td>
 
