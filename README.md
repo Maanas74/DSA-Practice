@@ -49,6 +49,7 @@ Codechef and Leetcode ques
 | 25 | [COMM3](https://www.codechef.com/problems/COMM3) |
 | 26 | [MNMX](https://www.codechef.com/problems/MNMX) |
 | 27 | [MISSP](https://www.codechef.com/problems/MISSP) |
+| 28 | [SHOPCHANGE](https://www.codechef.com/problems/SHOPCHANGE) |
 
 </td><td>
 
