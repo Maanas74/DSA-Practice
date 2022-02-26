@@ -50,6 +50,9 @@ Codechef and Leetcode ques
 | 26 | [MNMX](https://www.codechef.com/problems/MNMX) |
 | 27 | [MISSP](https://www.codechef.com/problems/MISSP) |
 | 28 | [SHOPCHANGE](https://www.codechef.com/problems/SHOPCHANGE) |
+| 29 | [EVENPSUM](https://www.codechef.com/problems/EVENPSUM) |
+| 30 | [AVG](https://www.codechef.com/problems/AVG) |
+| 31 | [BROKPHON](https://www.codechef.com/problems/BROKPHON) |
 
 </td><td>
 
