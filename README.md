@@ -53,6 +53,9 @@ Codechef and Leetcode ques
 | 29 | [EVENPSUM](https://www.codechef.com/problems/EVENPSUM) |
 | 30 | [AVG](https://www.codechef.com/problems/AVG) |
 | 31 | [BROKPHON](https://www.codechef.com/problems/BROKPHON) |
+| 32 | [SC31](https://www.codechef.com/problems/SC31) |
+| 33 | [BALLOON](https://www.codechef.com/problems/BALLOON) |
+| 34 | [RECNDSTR](https://www.codechef.com/problems/RECNDSTR) |
 
 </td><td>
 
