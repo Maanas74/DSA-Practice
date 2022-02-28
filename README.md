@@ -57,6 +57,7 @@ Codechef and Leetcode ques
 | 33 | [BALLOON](https://www.codechef.com/problems/BALLOON) |
 | 34 | [RECNDSTR](https://www.codechef.com/problems/RECNDSTR) |
 | 35 | [HELIUM3](https://www.codechef.com/problems/HELIUM3) |
+| 36 | [TRAVELFAST](https://www.codechef.com/problems/TRAVELFAST) |
     
 </td><td>
 
