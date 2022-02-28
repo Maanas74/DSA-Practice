@@ -58,6 +58,8 @@ Codechef and Leetcode ques
 | 34 | [RECNDSTR](https://www.codechef.com/problems/RECNDSTR) |
 | 35 | [HELIUM3](https://www.codechef.com/problems/HELIUM3) |
 | 36 | [TRAVELFAST](https://www.codechef.com/problems/TRAVELFAST) |
+| 37 | [PROGLANG](https://www.codechef.com/problems/PROGLANG) |
+| 38 | [EXAMTIME](https://www.codechef.com/problems/EXAMTIME) |
     
 </td><td>
 
