@@ -56,7 +56,8 @@ Codechef and Leetcode ques
 | 32 | [SC31](https://www.codechef.com/problems/SC31) |
 | 33 | [BALLOON](https://www.codechef.com/problems/BALLOON) |
 | 34 | [RECNDSTR](https://www.codechef.com/problems/RECNDSTR) |
-
+| 35 | [HELIUM3](https://www.codechef.com/problems/HELIUM3) |
+    
 </td><td>
 
 | Que No. | Description |
