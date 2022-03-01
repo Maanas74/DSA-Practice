@@ -60,6 +60,10 @@ Codechef and Leetcode ques
 | 36 | [TRAVELFAST](https://www.codechef.com/problems/TRAVELFAST) |
 | 37 | [PROGLANG](https://www.codechef.com/problems/PROGLANG) |
 | 38 | [EXAMTIME](https://www.codechef.com/problems/EXAMTIME) |
+| 39 | [DISTCON](https://www.codechef.com/LTIME105C/problems/DISTCON) |
+| 40 | [NIBBLE](https://www.codechef.com/LTIME105C/problems/NIBBLE) |
+| 41 | [MOVIE2X](https://www.codechef.com/LTIME105C/problems/MOVIE2X) |
+| 42 | [PLPROCESS](https://www.codechef.com/LTIME105C/problems/PLPROCESS) |
     
 </td><td>
 
