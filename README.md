@@ -64,6 +64,7 @@ Codechef and Leetcode ques
 | 40 | [NIBBLE](https://www.codechef.com/LTIME105C/problems/NIBBLE) |
 | 41 | [MOVIE2X](https://www.codechef.com/LTIME105C/problems/MOVIE2X) |
 | 42 | [PLPROCESS](https://www.codechef.com/LTIME105C/problems/PLPROCESS) |
+| 43 | [VACCINQ](https://www.codechef.com/problems/VACCINQ) |
     
 </td><td>
 
