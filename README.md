@@ -65,6 +65,7 @@ Codechef and Leetcode ques
 | 41 | [MOVIE2X](https://www.codechef.com/LTIME105C/problems/MOVIE2X) |
 | 42 | [PLPROCESS](https://www.codechef.com/LTIME105C/problems/PLPROCESS) |
 | 43 | [VACCINQ](https://www.codechef.com/problems/VACCINQ) |
+| 44 | [DIET](https://www.codechef.com/problems/DIET) |
     
 </td><td>
 
