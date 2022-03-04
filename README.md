@@ -66,6 +66,7 @@ Codechef and Leetcode ques
 | 42 | [PLPROCESS](https://www.codechef.com/LTIME105C/problems/PLPROCESS) |
 | 43 | [VACCINQ](https://www.codechef.com/problems/VACCINQ) |
 | 44 | [DIET](https://www.codechef.com/problems/DIET) |
+| 45 | [INSTNOODLE](https://www.codechef.com/problems/INSTNOODLE) |
     
 </td><td>
 
