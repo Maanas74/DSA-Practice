@@ -85,5 +85,6 @@ Codechef and Leetcode ques
 | 10 | [Binary Search](https://leetcode.com/problems/binary-search/) | 
 | 11 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |
 | 12 | [Search Insert Pos](https://leetcode.com/problems/search-insert-position/) |
+| 13 | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 
 </td></tr> </table>
