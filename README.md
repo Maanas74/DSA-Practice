@@ -87,5 +87,6 @@ Codechef and Leetcode ques
 | 12 | [Search Insert Pos](https://leetcode.com/problems/search-insert-position/) |
 | 13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |
 | 14 | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
+| 15 | [Depth Of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 
 </td></tr> </table>
