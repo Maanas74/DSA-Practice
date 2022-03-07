@@ -88,5 +88,7 @@ Codechef and Leetcode ques
 | 13 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |
 | 14 | [Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |
 | 15 | [Depth Of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
+| 16 | [Remove Outer Bracket](https://leetcode.com/problems/remove-outermost-parentheses/) |
+| 17 | [Design A Stack](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
 
 </td></tr> </table>
