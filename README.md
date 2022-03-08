@@ -90,5 +90,6 @@ Codechef and Leetcode ques
 | 15 | [Depth Of Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) |
 | 16 | [Remove Outer Bracket](https://leetcode.com/problems/remove-outermost-parentheses/) |
 | 17 | [Design A Stack](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
+| 18 | [Price With Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |
 
 </td></tr> </table>
