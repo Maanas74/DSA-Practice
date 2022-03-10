@@ -92,5 +92,6 @@ Codechef and Leetcode ques
 | 17 | [Design A Stack](https://leetcode.com/problems/design-a-stack-with-increment-operation/) |
 | 18 | [Price With Discount](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/) |
 | 19 | [Remove Adjacent duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
+| 20 | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) |
 
 </td></tr> </table>
