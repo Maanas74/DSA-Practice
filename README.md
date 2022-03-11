@@ -94,5 +94,6 @@ Codechef and Leetcode ques
 | 19 | [Remove Adjacent duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |
 | 20 | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) |
 | 21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
+| 22 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
 
 </td></tr> </table>
