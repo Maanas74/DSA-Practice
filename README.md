@@ -95,5 +95,6 @@ Codechef and Leetcode ques
 | 20 | [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/) |
 | 21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
 | 22 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
+| 23 | [Two Sum](https://leetcode.com/problems/two-sum/) |
 
 </td></tr> </table>
