@@ -96,5 +96,6 @@ Codechef and Leetcode ques
 | 21 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |
 | 22 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
 | 23 | [Two Sum](https://leetcode.com/problems/two-sum/) |
+| 24 | [Intersection Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 
 </td></tr> </table>
