@@ -97,5 +97,6 @@ Codechef and Leetcode ques
 | 22 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |
 | 23 | [Two Sum](https://leetcode.com/problems/two-sum/) |
 | 24 | [Intersection Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
+| 25 | [Best Time Buy & Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 
 </td></tr> </table>
