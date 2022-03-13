@@ -98,5 +98,6 @@ Codechef and Leetcode ques
 | 23 | [Two Sum](https://leetcode.com/problems/two-sum/) |
 | 24 | [Intersection Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 25 | [Best Time Buy & Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 26 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |
 
 </td></tr> </table>
