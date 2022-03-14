@@ -101,5 +101,6 @@ Codechef and Leetcode ques
 | 26 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |
 | 27 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix/) |
 | 28 | [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
+| 29 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
 
 </td></tr> </table>
