@@ -99,5 +99,6 @@ Codechef and Leetcode ques
 | 24 | [Intersection Arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/) |
 | 25 | [Best Time Buy & Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 26 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |
+| 27 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix/) |
 
 </td></tr> </table>
