@@ -100,5 +100,6 @@ Codechef and Leetcode ques
 | 25 | [Best Time Buy & Sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
 | 26 | [Pascals Triangle](https://leetcode.com/problems/pascals-triangle/) |
 | 27 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix/) |
+| 28 | [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
 
 </td></tr> </table>
