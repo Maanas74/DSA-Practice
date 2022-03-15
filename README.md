@@ -102,5 +102,6 @@ Codechef and Leetcode ques
 | 27 | [Reshape The Matrix](https://leetcode.com/problems/reshape-the-matrix/) |
 | 28 | [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 29 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
+| 30 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |
 
 </td></tr> </table>
