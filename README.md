@@ -103,5 +103,6 @@ Codechef and Leetcode ques
 | 28 | [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |
 | 29 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
 | 30 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |
+| 31 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |
 
 </td></tr> </table>
