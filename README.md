@@ -104,5 +104,6 @@ Codechef and Leetcode ques
 | 29 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |
 | 30 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |
 | 31 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |
+| 32 | [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 
 </td></tr> </table>
