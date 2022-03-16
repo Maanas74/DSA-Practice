@@ -106,5 +106,6 @@ Codechef and Leetcode ques
 | 31 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |
 | 32 | [First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/) |
 | 33 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |
+| 34 | [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |
 
 </td></tr> </table>
