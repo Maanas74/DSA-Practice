@@ -108,5 +108,6 @@ Codechef and Leetcode ques
 | 33 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |
 | 34 | [Merge Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 35 | [Remove List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |
+| 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
 
 </td></tr> </table>
