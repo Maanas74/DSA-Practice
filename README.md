@@ -110,5 +110,6 @@ Codechef and Leetcode ques
 | 35 | [Remove List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |
 | 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
 | 37 | [Remove Duplicate From List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
+| 38 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |
 
 </td></tr> </table>
