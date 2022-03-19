@@ -111,5 +111,6 @@ Codechef and Leetcode ques
 | 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |
 | 37 | [Remove Duplicate From List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 38 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |
+| 39 | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 
 </td></tr> </table>
