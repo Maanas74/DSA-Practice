@@ -112,5 +112,6 @@ Codechef and Leetcode ques
 | 37 | [Remove Duplicate From List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |
 | 38 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 39 | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
+| 40 | [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 
 </td></tr> </table>
