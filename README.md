@@ -68,6 +68,7 @@ Codechef and Leetcode ques
 | 44 | [DIET](https://www.codechef.com/problems/DIET) |
 | 45 | [INSTNOODLE](https://www.codechef.com/problems/INSTNOODLE) |
 | 46 | [BATTERYLOW](https://www.codechef.com/problems/BATTERYLOW) |
+| 47 | [FBC](https://www.codechef.com/problems/FBC) |
     
 </td><td>
 
