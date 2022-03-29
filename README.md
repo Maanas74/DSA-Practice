@@ -115,5 +115,6 @@ Codechef and Leetcode ques
 | 39 | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 40 | [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
 | 41 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |
+| 42 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 
 </td></tr> </table>
