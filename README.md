@@ -114,5 +114,6 @@ Codechef and Leetcode ques
 | 38 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |
 | 39 | [Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |
 | 40 | [Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |
+| 41 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |
 
 </td></tr> </table>
